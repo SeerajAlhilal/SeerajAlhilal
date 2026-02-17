@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](2670369854bb4403f341c658aa4ac45aa5b4ba13)
+  - [Active Directory Home Lab](https://github.com/SeerajAlhilal/Active-Directory-Home-Lab)
  
 
 <h2>Certifications</h2>
